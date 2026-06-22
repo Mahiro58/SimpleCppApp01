@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FirstCppApp/FirstCppApp.vcxproj" Id="ef1cf64c-a266-4481-9ecd-7c4ef05bdb4d" />
+</Solution>
